@@ -1,0 +1,17 @@
+1721555778519,111,Launch,200,OK,Task2 1-1,text,true,,17391,458,2,2,http://10.0.0.5/hospital/,110,0,58
+1721555778786,16,Launch,200,OK,Task2 1-2,text,true,,17391,458,2,2,http://10.0.0.5/hospital/,16,0,1
+1721555926647,24,/hospital/hms/user-login.php-2,200,OK,Task2 1-1,text,true,,3765,495,2,2,http://10.0.0.5/hospital/hms/user-login.php,24,0,2
+1721555926803,17,/hospital/hms/user-login.php-2,200,OK,Task2 1-2,text,true,,3765,495,2,2,http://10.0.0.5/hospital/hms/user-login.php,17,0,1
+1721556074672,72,Login,200,OK,Task2 1-1,text,true,,23205,1892,2,2,http://10.0.0.5/hospital/hms/./user-login.php,22,0,7
+1721556074672,23,Login-0,302,Found,Task2 1-1,text,true,,3793,683,2,2,http://10.0.0.5/hospital/hms/user-login.php,22,0,7
+1721556074701,26,Login-1,302,Found,Task2 1-1,text,true,,15648,603,2,2,http://10.0.0.5/hospital/hms/dashboard.php,25,0,0
+1721556074727,17,Login-2,200,OK,Task2 1-1,text,true,,3764,606,2,2,http://10.0.0.5/hospital/hms/./user-login.php,16,0,0
+1721556074820,33,Login,200,OK,Task2 1-2,text,true,,7586,1287,2,2,http://10.0.0.5/hospital/hms/user-login.php,27,0,3
+1721556074820,27,Login-0,302,Found,Task2 1-2,text,true,,3822,683,2,2,http://10.0.0.5/hospital/hms/user-login.php,27,0,3
+1721556074848,5,Login-1,200,OK,Task2 1-2,text,true,,3764,604,2,2,http://10.0.0.5/hospital/hms/user-login.php,5,0,0
+1721556222745,39,/hospital/hms/dashboard.php-4,200,OK,Task2 1-1,text,true,,19413,1061,2,2,http://10.0.0.5/hospital/hms/./user-login.php,23,0,2
+1721556222745,23,/hospital/hms/dashboard.php-4-0,302,Found,Task2 1-1,text,true,,15649,529,2,2,http://10.0.0.5/hospital/hms/dashboard.php,23,0,2
+1721556222768,16,/hospital/hms/dashboard.php-4-1,200,OK,Task2 1-1,text,true,,3764,532,2,2,http://10.0.0.5/hospital/hms/./user-login.php,16,0,0
+1721556222852,20,/hospital/hms/dashboard.php-4,200,OK,Task2 1-2,text,true,,19413,1061,1,1,http://10.0.0.5/hospital/hms/./user-login.php,8,0,2
+1721556222852,9,/hospital/hms/dashboard.php-4-0,302,Found,Task2 1-2,text,true,,15649,529,1,1,http://10.0.0.5/hospital/hms/dashboard.php,8,0,2
+1721556222861,11,/hospital/hms/dashboard.php-4-1,200,OK,Task2 1-2,text,true,,3764,532,1,1,http://10.0.0.5/hospital/hms/./user-login.php,11,0,0
